@@ -24,9 +24,6 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.0
 mdurl==0.1.2
-mysql==0.0.3
-mysql-connector-python==9.2.0
-mysqlclient==2.2.7
 narwhals==1.27.1
 numpy==2.2.1
 openpyxl==3.1.5
